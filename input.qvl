@@ -1,0 +1,10 @@
+_______________________Inputs of simple MFlux model____________________ 
+Based on: De Jong van lier et al., 2013. doi: doi:10.2136/vzj2013.02.0039
+-> Plant and soil-root parameters:
+RLD        a      r0        rx        Kroot     Ll        hw       hl
+0.1       0.53   5.0E-04   2.0E-04   2.0E-08   3.0E-04   -200.0   -200.0
+cm/cm³     -      m         m         m/d       d-1       m        m
+-> Soil parameters (Brooks-Corey one-layer soil)
+hb        p        Ks         hs        z
+ -0.05    2.0      0.5        -4.0      0.6
+m         -        m/d        m         m
